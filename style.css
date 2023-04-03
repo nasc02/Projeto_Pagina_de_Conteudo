@@ -1,0 +1,150 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    margin: auto;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    height: 80px;
+    border-bottom: 10px solid rgb(253, 135, 0);
+}
+
+h1 {
+    margin: 0;
+    padding-top: 15px;
+}
+
+h2 {
+    font-size: 70px;
+    font-weight: 700;
+    text-align: left;
+    color: #111;
+}
+
+.h2-1{
+    line-height: 80px;
+}
+
+p {
+    color: #555;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.subtitle {
+    text-align: left;
+}
+
+.zanatta {
+    font-size: 15px;
+    font-weight: 800;
+    margin: 0;
+    text-align: left;
+}
+
+.zanatta-desc {
+    margin: 0;
+    font-size: 10px;
+    color: rgb(143, 139, 139);
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 75%;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.first-li {
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    float: left;
+    margin-left: 20px;
+    width: 25px;
+}
+
+.orange-text {
+    font-weight: 700;
+    color: rgb(253, 135, 0);
+}
+
+.div-orange2{
+    display: inline;
+    text-align: left;
+    margin: auto;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.orange-text2 {
+    font-weight: 700;
+    color: rgb(253, 135, 0);
+    display: inline;
+    /* text-align: left; */
+    /* float: left; */
+
+}
+
+.p-br{
+    text-align: left;
+    display: inline;
+    /* margin: auto; */
+    /* float: left; */
+}
+
+.content {
+    margin: auto;
+    text-align: center;
+    width: 75%;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    color: rgb(68, 68, 68);
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+img {
+    width: 100%;
+}
+
+h3{
+    font-size: 35px;
+    text-align: left;
+    color: #111;
+    margin-bottom: 15px;
+}
+
+.geladeira{
+    margin-top: 30px;
+}
+
+footer{
+    background-color: #333;
+    height: 80px;
+}
+
+
+
